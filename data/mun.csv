@@ -1,0 +1,224 @@
+ano,cod_regiao,nome_regiao,cod_uf,nome_uf,cod_meso,nome_meso,cod_micro,nome_micro,cod_mun,cod_mundv,nome_mun
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,250010,2500106,Água Branca
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,250020,2500205,Aguiar
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25015,Brejo Paraibano,250030,2500304,Alagoa Grande
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25015,Brejo Paraibano,250040,2500403,Alagoa Nova
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250050,2500502,Alagoinha
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,250053,2500536,Alcantil
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,250057,2500577,Algodão de Jandaíra
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25023,Litoral Sul,250060,2500601,Alhandra
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,250073,2500734,Amparo
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,250077,2500775,Aparecida
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250080,2500809,Araçagi
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,250090,2500908,Arara
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25013,Curimataú Oriental,250100,2501005,Araruna
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25015,Brejo Paraibano,250110,2501104,Areia
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,250115,2501153,Areia de Baraúnas
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25014,Esperança,250120,2501203,Areial
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25019,Umbuzeiro,250130,2501302,Aroeiras
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,250135,2501351,Assunção
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250140,2501401,Baía da Traição
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25015,Brejo Paraibano,250150,2501500,Bananeiras
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,250153,2501534,Baraúna
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,250160,2501609,Barra de Santa Rosa
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,250157,2501575,Barra de Santana
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,250170,2501708,Barra de São Miguel
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25022,João Pessoa,250180,2501807,Bayeux
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250190,2501906,Belém
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,250200,2502003,Belém do Brejo do Cruz
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,250205,2502052,Bernardino Batista
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,250210,2502102,Boa Ventura
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25017,Campina Grande,250215,2502151,Boa Vista
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,250220,2502201,Bom Jesus
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,250230,2502300,Bom Sucesso
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,250240,2502409,Bonito de Santa Fé
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,250250,2502508,Boqueirão
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25015,Brejo Paraibano,250270,2502706,Borborema
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,250280,2502805,Brejo do Cruz
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,250290,2502904,Brejo dos Santos
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25023,Litoral Sul,250300,2503001,Caaporã
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,250310,2503100,Cabaceiras
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25022,João Pessoa,250320,2503209,Cabedelo
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,250330,2503308,Cachoeira dos Índios
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,250340,2503407,Cacimba de Areia
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25013,Curimataú Oriental,250350,2503506,Cacimba de Dentro
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,250355,2503555,Cacimbas
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250360,2503605,Caiçara
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,250370,2503704,Cajazeiras
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,250375,2503753,Cajazeirinhas
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,250380,2503803,Caldas Brandão
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,250390,2503902,Camalaú
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25017,Campina Grande,250400,2504009,Campina Grande
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250403,2504033,Capim
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,250407,2504074,Caraúbas
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,250410,2504108,Carrapateira
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25013,Curimataú Oriental,250415,2504157,Casserengue
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,250420,2504207,Catingueira
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,250430,2504306,Catolé do Rocha
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,250435,2504355,Caturité
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,250440,2504405,Conceição
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,250450,2504504,Condado
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25022,João Pessoa,250460,2504603,Conde
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,250470,2504702,Congo
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,250480,2504801,Coremas
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,250485,2504850,Coxixola
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,250490,2504900,Cruz do Espírito Santo
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,250500,2505006,Cubati
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,250510,2505105,Cuité
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250523,2505238,Cuité de Mamanguape
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250520,2505204,Cuitegi
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250527,2505279,Curral de Cima
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,250530,2505303,Curral Velho
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,250535,2505352,Damião
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,250540,2505402,Desterro
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,250560,2505600,Diamante
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25013,Curimataú Oriental,250570,2505709,Dona Inês
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250580,2505808,Duas Estradas
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,250590,2505907,Emas
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25014,Esperança,250600,2506004,Esperança
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25017,Campina Grande,250610,2506103,Fagundes
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,250620,2506202,Frei Martinho
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25019,Umbuzeiro,250625,2506251,Gado Bravo
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250630,2506301,Guarabira
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,250640,2506400,Gurinhém
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,250650,2506509,Gurjão
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,250660,2506608,Ibiara
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,250260,2502607,Igaracy
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,250670,2506707,Imaculada
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,250680,2506806,Ingá
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,250690,2506905,Itabaiana
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,250700,2507002,Itaporanga
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250710,2507101,Itapororoca
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,250720,2507200,Itatuba
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250730,2507309,Jacaraú
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,250740,2507408,Jericó
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25022,João Pessoa,250750,2507507,João Pessoa
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,251365,2513653,Joca Claudino
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,250760,2507606,Juarez Távora
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,250770,2507705,Juazeirinho
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25008,Seridó Ocidental Paraibano,250780,2507804,Junco do Seridó
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,250790,2507903,Juripiranga
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,250800,2508000,Juru
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,250810,2508109,Lagoa
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250820,2508208,Lagoa de Dentro
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25017,Campina Grande,250830,2508307,Lagoa Seca
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,250840,2508406,Lastro
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,250850,2508505,Livramento
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250855,2508554,Logradouro
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25022,João Pessoa,250860,2508604,Lucena
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,250870,2508703,Mãe d'Água
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,250880,2508802,Malta
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250890,2508901,Mamanguape
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,250900,2509008,Manaíra
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250905,2509057,Marcação
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,250910,2509107,Mari
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,250915,2509156,Marizópolis
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25017,Campina Grande,250920,2509206,Massaranduba
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,250930,2509305,Mataraca
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25015,Brejo Paraibano,250933,2509339,Matinhas
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,250937,2509370,Mato Grosso
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,250939,2509396,Maturéia
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,250940,2509404,Mogeiro
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25014,Esperança,250950,2509503,Montadas
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,250960,2509602,Monte Horebe
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,250970,2509701,Monteiro
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,250980,2509800,Mulungu
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25019,Umbuzeiro,250990,2509909,Natuba
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251000,2510006,Nazarezinho
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,251010,2510105,Nova Floresta
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,251020,2510204,Nova Olinda
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,251030,2510303,Nova Palmeira
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,251040,2510402,Olho d'Água
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,251050,2510501,Olivedos
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251060,2510600,Ouro Velho
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251065,2510659,Parari
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,251070,2510709,Passagem
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,251080,2510808,Patos
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251090,2510907,Paulista
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,251100,2511004,Pedra Branca
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,251110,2511103,Pedra Lavrada
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25023,Litoral Sul,251120,2511202,Pedras de Fogo
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,251272,2512721,Pedro Régis
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,251130,2511301,Piancó
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,251140,2511400,Picuí
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,251150,2511509,Pilar
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25015,Brejo Paraibano,251160,2511608,Pilões
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,251170,2511707,Pilõezinhos
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,251180,2511806,Pirpirituba
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25023,Litoral Sul,251190,2511905,Pitimbu
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,251200,2512002,Pocinhos
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,251203,2512036,Poço Dantas
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,251207,2512077,Poço de José de Moura
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251210,2512101,Pombal
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251220,2512200,Prata
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,251230,2512309,Princesa Isabel
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25017,Campina Grande,251240,2512408,Puxinanã
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25017,Campina Grande,251250,2512507,Queimadas
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,251260,2512606,Quixaba
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,251270,2512705,Remígio
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25013,Curimataú Oriental,251274,2512747,Riachão
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,251275,2512754,Riachão do Bacamarte
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,251276,2512762,Riachão do Poço
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,251278,2512788,Riacho de Santo Antônio
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,251280,2512804,Riacho dos Cavalos
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25020,Litoral Norte,251290,2512903,Rio Tinto
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25008,Seridó Ocidental Paraibano,251300,2513000,Salgadinho
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25018,Itabaiana,251310,2513109,Salgado de São Félix
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25019,Umbuzeiro,251315,2513158,Santa Cecília
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251320,2513208,Santa Cruz
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,251330,2513307,Santa Helena
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,251335,2513356,Santa Inês
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25008,Seridó Ocidental Paraibano,251340,2513406,Santa Luzia
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25022,João Pessoa,251370,2513703,Santa Rita
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,251380,2513802,Santa Teresinha
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,251350,2513505,Santana de Mangueira
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25005,Piancó,251360,2513604,Santana dos Garrotes
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,251385,2513851,Santo André
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251392,2513927,São Bentinho
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,251390,2513901,São Bento
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251396,2513968,São Domingos
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,251394,2513943,São Domingos do Cariri
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251398,2513984,São Francisco
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25011,Cariri Oriental,251400,2514008,São João do Cariri
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,250070,2500700,São João do Rio do Peixe
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251410,2514107,São João do Tigre
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251420,2514206,São José da Lagoa Tapada
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,251430,2514305,São José de Caiana
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,251440,2514404,São José de Espinharas
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,251450,2514503,São José de Piranhas
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,251455,2514552,São José de Princesa
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25004,Patos,251460,2514602,São José do Bonfim
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25001,Catolé do Rocha,251465,2514651,São José do Brejo do Cruz
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25008,Seridó Ocidental Paraibano,251470,2514701,São José do Sabugi
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251480,2514800,São José dos Cordeiros
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,251445,2514453,São José dos Ramos
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25008,Seridó Ocidental Paraibano,251490,2514909,São Mamede
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,251500,2515005,São Miguel de Taipu
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25014,Esperança,251510,2515104,São Sebastião de Lagoa de Roça
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251520,2515203,São Sebastião do Umbuzeiro
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,251540,2515401,São Vicente do Seridó
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,251530,2515302,Sapé
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251550,2515500,Serra Branca
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,251560,2515609,Serra da Raiz
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25006,Itaporanga,251570,2515708,Serra Grande
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25017,Campina Grande,251580,2515807,Serra Redonda
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25015,Brejo Paraibano,251590,2515906,Serraria
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25016,Guarabira,251593,2515930,Sertãozinho
+2015,2,Nordeste,25,Paraíba,2504,Mata Paraibana,25021,Sapé,251597,2515971,Sobrado
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25013,Curimataú Oriental,251600,2516003,Solânea
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,251610,2516102,Soledade
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25012,Curimataú Ocidental,251615,2516151,Sossêgo
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251620,2516201,Sousa
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251630,2516300,Sumé
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25013,Curimataú Oriental,251640,2516409,Tacima
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251650,2516508,Taperoá
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,251660,2516607,Tavares
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25007,Serra do Teixeira,251670,2516706,Teixeira
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25009,Seridó Oriental Paraibano,251675,2516755,Tenório
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,251680,2516805,Triunfo
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25002,Cajazeiras,251690,2516904,Uiraúna
+2015,2,Nordeste,25,Paraíba,2503,Agreste Paraibano,25019,Umbuzeiro,251700,2517001,Umbuzeiro
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25008,Seridó Ocidental Paraibano,251710,2517100,Várzea
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,251720,2517209,Vieirópolis
+2015,2,Nordeste,25,Paraíba,2501,Sertão Paraibano,25003,Sousa,250550,2505501,Vista Serrana
+2015,2,Nordeste,25,Paraíba,2502,Borborema,25010,Cariri Ocidental,251740,2517407,Zabelê
